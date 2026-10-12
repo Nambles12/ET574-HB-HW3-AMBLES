@@ -16,10 +16,4 @@ greet_students(students)
 
 
 
-# Task A complete
-# Task C complete
 
-# Task D complete
-# Task B complete
-# Task C complete
-# Task D complete
